@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    position:sticky;
+    top: 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    width: 100vw;
+    color: white;
+    background-color:#000000ac;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin-left: 25px;
+    border-radius: 50%;
+}
+.nav-links {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 60%;
+    margin-right: 50px;
+    /* background-color:blue; */
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    padding: 5px 20px;
+    margin: 0 10px;
+}
+.link:hover{
+    color:rgb(124, 147, 222);
+    transition: color 0.5s ease-in-out ;
+}
+
+.iconbtn {
+    display: none;
+    margin-right: 20px;
+}
+
+.iconbtn i {
+    font-size: 1.5rem;
+}
+
+@media screen and (max-width:650px) {
+
+    .smalldevices {
+        /* display: grid; */
+        display: none;
+        position: absolute;
+        list-style: none;
+        text-align: center;
+        width: 40%;
+        height: 90vh;
+        margin-right: 0px;
+        background-color:#000000ac;
+        border-top: 1px solid white;
+        right: 0;
+        top: 100%;
+    }
+    .smalldevices li {
+        margin: auto 0px;
+    }
+
+}
+@media screen and (max-width:280px) {
+
+    .smalldevices {
+        width: 50%;
+        text-align:start;
+    }
+}
+@media screen and (max-width:225px) {
+
+    .smalldevices {
+        width: 65%;;
+    }
+    .home,
+    .about,
+    .education,
+    .contect {
+        padding: 5px 10px;
+        margin: 0px 0px;
+    
+    }
+}
