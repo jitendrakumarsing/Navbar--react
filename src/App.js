@@ -17,7 +17,7 @@ function App() {
       <Route path="/Services" element={<Services/>} />
       <Route path="/contect" element={<Contect/>} />
     </Routes>
-  </HashRouter>,
+  </HashRouter>
     </>
   );
 }
