@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/navbar/static/css/main.08210f36.css",
-    "main.js": "/navbar/static/js/main.b5c3c47a.js",
-    "static/media/fa-solid-900.ttf": "/navbar/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
-    "static/media/fa-brands-400.ttf": "/navbar/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
-    "static/media/fa-solid-900.woff2": "/navbar/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
-    "static/media/fa-brands-400.woff2": "/navbar/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
-    "static/media/fa-regular-400.ttf": "/navbar/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
-    "static/media/logo.jpg": "/navbar/static/media/logo.71ffb591b9ab8d2c7504.jpg",
-    "static/media/fa-regular-400.woff2": "/navbar/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
-    "static/media/fa-v4compatibility.ttf": "/navbar/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
-    "static/media/fa-v4compatibility.woff2": "/navbar/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
-    "index.html": "/navbar/index.html",
-    "main.08210f36.css.map": "/navbar/static/css/main.08210f36.css.map",
-    "main.b5c3c47a.js.map": "/navbar/static/js/main.b5c3c47a.js.map"
+    "main.css": "/Navbar--react/static/css/main.11f3401a.css",
+    "main.js": "/Navbar--react/static/js/main.8bbae6a1.js",
+    "static/media/fa-solid-900.ttf": "/Navbar--react/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/Navbar--react/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/Navbar--react/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/Navbar--react/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/Navbar--react/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "/Navbar--react/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Navbar--react/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Navbar--react/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/Navbar--react/index.html",
+    "main.11f3401a.css.map": "/Navbar--react/static/css/main.11f3401a.css.map",
+    "main.8bbae6a1.js.map": "/Navbar--react/static/js/main.8bbae6a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.08210f36.css",
-    "static/js/main.b5c3c47a.js"
+    "static/css/main.11f3401a.css",
+    "static/js/main.8bbae6a1.js"
   ]
 }
